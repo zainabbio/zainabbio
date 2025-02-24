@@ -39,13 +39,16 @@ Python <img src="https://github.com/user-attachments/assets/c6746345-b948-4b1c-8
 PLINK <img src="https://github.com/user-attachments/assets/b40c96c0-d03a-4741-9752-255bb5d5dd52" width="50" height="50" />
 GCTA <img src="https://github.com/user-attachments/assets/73ebebeb-fe17-4c3a-ad42-a5f324758d4a" width="50" height="50" />
 
-**Computational Tools used for Molecular Docking and Simulation:**
+**Computational Tools used for Molecular Docking:**
 
 AutoDock <img src="https://github.com/user-attachments/assets/337c37a0-c745-4680-807a-5e83a8418dd8" width="50" height="50" />
 HADDOCK <img src="https://github.com/user-attachments/assets/501f076b-1deb-4890-b885-abe8747cdac2" width="50" height="50" />
 MOE <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2-6552cd68888f" width="50" height="50" />
+HawkDock <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2-6552cd68888f" width="50" height="50" />
+ZDock <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2-6552cd68888f" width="50" height="50" />
 
-   GROMACS, TensorFlow, PyTorch
+**Computational Tools used for Molecular Dynamic Simulation:**
+
 - **Machine Learning Models**:
   - VCF, FASTQ, BAM, BED, GTF, CSV, TS
 
@@ -56,7 +59,8 @@ MOE <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2
 ## Contact
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourname)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- Youtube: [@YourTwitterHandle](https://www.youtube.com/@BioinformaticsHub-i3c)
+- Google Scholar
 
 Feel free to reach out if you'd like to collaborate, discuss bioinformatics, or have any questions about my projects!
 
