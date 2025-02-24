@@ -53,12 +53,12 @@ ZDock <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9e
   - VCF, FASTQ, BAM, BED, GTF, CSV, TS
 
 ## Publications
-- [Publication Title 1](Link to publication)
-- [Publication Title 2](Link to publication)
+- Google Scholar: [https://scholar.google.com/citations?user=TKftGccAAAAJ&hl=en](Link to publication)
+- Researchgate[https://www.researchgate.net/profile/Zainab-Jan/research](Link to publication)
 
 ## Contact
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourname)
+- Email: [zainab.bioinfo@gmail.com](mailto:your.email@example.com)
+- LinkedIn: [https://www.linkedin.com/in/zainab-jan-5856841a9/](https://linkedin.com/in/yourname)
 - Youtube: [https://www.youtube.com/@BioinformaticsHub-i3c](https://www.youtube.com/@BioinformaticsHub-i3c)
 
 Feel free to reach out if you'd like to collaborate, discuss bioinformatics, or have any questions about my projects!
