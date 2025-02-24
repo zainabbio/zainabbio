@@ -1,4 +1,4 @@
-# Bioinformatics Projects by [Your Name]
+# Zainab Jan
 
 Welcome to my GitHub! I am a bioinformatician with expertise in **genome-wide association analysis**, **Mendelian randomization**, **pharmacogenomics**, **RNA-seq**, **ChIP-seq**, **DNA methylation**, and other computational techniques. This repository contains various projects and tools I've worked on, mainly using **R**, **Python**, and specialized bioinformatics software.
 
@@ -30,15 +30,15 @@ Feel free to check out my repositories and projects, which are focused on provid
 ## Tools & Technologies
 
 - **Programming Languages**: 
-  - R ![image](https://github.com/user-attachments/assets/b1a3870d-a68d-4582-afb9-72c26c6a51a0)
-  - Python ![image](https://github.com/user-attachments/assets/c6746345-b948-4b1c-8aa5-1d0856ae9c2d)
+  - R ![image](https://github.com/user-attachments/assets/b1a3870d-a68d-4582-afb9-72c26c6a51a0 =50x50)
+  - Python ![image](https://github.com/user-attachments/assets/c6746345-b948-4b1c-8aa5-1d0856ae9c2d =50x50)
 
 - **Bioinformatics Tools for Genome Wide Association Studies**: 
-  - PLINK ![image](https://github.com/user-attachments/assets/b40c96c0-d03a-4741-9752-255bb5d5dd52)
-  - GCTA ![image](https://github.com/user-attachments/assets/73ebebeb-fe17-4c3a-ad42-a5f324758d4a)
+  - PLINK ![image](https://github.com/user-attachments/assets/b40c96c0-d03a-4741-9752-255bb5d5dd52 =50x50)
+  - GCTA ![image](https://github.com/user-attachments/assets/73ebebeb-fe17-4c3a-ad42-a5f324758d4a =50x50)
 - **Computational Tools used for Molecular Docking and Simulation**:
-  - AutoDock ![image](https://github.com/user-attachments/assets/337c37a0-c745-4680-807a-5e83a8418dd8)
-  - HADDOCK ![image](https://github.com/user-attachments/assets/501f076b-1deb-4890-b885-abe8747cdac2)
+  - AutoDock ![image](https://github.com/user-attachments/assets/337c37a0-c745-4680-807a-5e83a8418dd8 =50x50)
+  - HADDOCK ![image](https://github.com/user-attachments/assets/501f076b-1deb-4890-b885-abe8747cdac2 =50x50)
   - GROMACS, TensorFlow, PyTorch
 - **Machine Learning Models**:
   - VCF, FASTQ, BAM, BED, GTF, CSV, TS
