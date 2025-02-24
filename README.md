@@ -43,7 +43,7 @@ GCTA <img src="https://github.com/user-attachments/assets/73ebebeb-fe17-4c3a-ad4
 
 AutoDock <img src="https://github.com/user-attachments/assets/337c37a0-c745-4680-807a-5e83a8418dd8" width="50" height="50" />
 HADDOCK <img src="https://github.com/user-attachments/assets/501f076b-1deb-4890-b885-abe8747cdac2" width="50" height="50" />
-MOE <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2-6552cd68888f)" width="50" height="50" />
+MOE <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2-6552cd68888f" width="50" height="50" />
 
    GROMACS, TensorFlow, PyTorch
 - **Machine Learning Models**:
