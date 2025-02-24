@@ -44,8 +44,8 @@ GCTA <img src="https://github.com/user-attachments/assets/73ebebeb-fe17-4c3a-ad4
 AutoDock <img src="https://github.com/user-attachments/assets/337c37a0-c745-4680-807a-5e83a8418dd8" width="50" height="50" />
 HADDOCK <img src="https://github.com/user-attachments/assets/501f076b-1deb-4890-b885-abe8747cdac2" width="50" height="50" />
 MOE <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2-6552cd68888f" width="50" height="50" />
-HawkDock <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2-6552cd68888f" width="50" height="50" />
-ZDock <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2-6552cd68888f" width="50" height="50" />
+HawkDock <img src="https://github.com/user-attachments/assets/fc106f73-55a9-49c7-b5b8-1c8d37983a7a" width="50" height="50" />
+ZDock <img src="https://github.com/user-attachments/assets/c92452e3-8b0e-40b0-b53b-6ba08e10ffee" width="50" height="50" />
 
 **Computational Tools used for Molecular Dynamic Simulation:**
 
@@ -53,8 +53,8 @@ ZDock <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9e
   - VCF, FASTQ, BAM, BED, GTF, CSV, TS
 
 ## Publications
-- Google Scholar: [https://scholar.google.com/citations?user=TKftGccAAAAJ&hl=en](Link to publication)
-- Researchgate[https://www.researchgate.net/profile/Zainab-Jan/research](Link to publication)
+- Google Scholar: [https://scholar.google.com/citations?user=TKftGccAAAAJ&hl=en]
+- Researchgate[https://www.researchgate.net/profile/Zainab-Jan/research]
 
 ## Contact
 - Email: [zainab.bioinfo@gmail.com](mailto:your.email@example.com)
