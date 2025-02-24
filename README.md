@@ -59,8 +59,7 @@ ZDock <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9e
 ## Contact
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourname)
-- Youtube: [@YourTwitterHandle](https://www.youtube.com/@BioinformaticsHub-i3c)
-- Google Scholar
+- Youtube: [https://www.youtube.com/@BioinformaticsHub-i3c](https://www.youtube.com/@BioinformaticsHub-i3c)
 
 Feel free to reach out if you'd like to collaborate, discuss bioinformatics, or have any questions about my projects!
 
