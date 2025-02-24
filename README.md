@@ -30,7 +30,7 @@ Feel free to check out my repositories and projects, which are focused on provid
 ## Tools & Technologies
 
 - **Programming Languages**: 
-  - R ![image](https://github.com/user-attachments/assets/b1a3870d-a68d-4582-afb9-72c26c6a51a0 =50x50)
+  - R ![R logo](https://github.com/user-attachments/assets/b1a3870d-a68d-4582-afb9-72c26c6a51a0 =50x50)
   - Python ![image](https://github.com/user-attachments/assets/c6746345-b948-4b1c-8aa5-1d0856ae9c2d =50x50)
 
 - **Bioinformatics Tools for Genome Wide Association Studies**: 
