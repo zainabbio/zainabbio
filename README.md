@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 <h1 align="center">Hi 👋, I'm Zainab Jan</h1>
 <h3 align="center">A passionate Bioinformatician from Pakistan</h3>
