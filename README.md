@@ -36,13 +36,6 @@ Python <img src="https://github.com/user-attachments/assets/c6746345-b948-4b1c-8
 
 **Bioinformatics Tools for Genome Wide Association Studies:**
 
-PLINK <img src="https://github.com/user-attachments/assets/b40c96c0-d03a-4741-9752-255bb5d5dd52" width="50" height="50" />
-GCTA <img src="https://github.com/user-attachments/assets/73ebebeb-fe17-4c3a-ad42-a5f324758d4a" width="50" height="50" />
-HATK <img src="https://github.com/user-attachments/assets/2dbb04fd-91cc-4316-9583-1807b8bb2c26" width="50" height="50" />
-Regenie <img src="https://github.com/user-attachments/assets/dea5b203-5505-40c3-8a20-6f50a745a4999583" width="50" height="50" />
-SAIGE <img src="https://github.com/user-attachments/assets/a9768334-9f75-4d9e-b34b-7178b58b20c5" width="50" height="50" />
-
-
 | **PLINK** <img src="https://github.com/user-attachments/assets/b40c96c0-d03a-4741-9752-255bb5d5dd52" width="50" height="50" /> | **GCTA** <img src="https://github.com/user-attachments/assets/73ebebeb-fe17-4c3a-ad42-a5f324758d4a" width="50" height="50" /> | **HATK** <img src="https://github.com/user-attachments/assets/2dbb04fd-91cc-4316-9583-1807b8bb2c26" width="50" height="50" /> | **Regenie** <img src="https://github.com/user-attachments/assets/dea5b203-5505-40c3-8a20-6f50a745a4999583" width="50" height="50" /> | **SAIGE** <img src="https://github.com/user-attachments/assets/a9768334-9f75-4d9e-b34b-7178b58b20c5" width="50" height="50" /> |
 
 **Computational Tools used for Molecular Docking:**
