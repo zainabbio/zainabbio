@@ -58,7 +58,7 @@ Random Forest <img src="https://github.com/user-attachments/assets/40c0420c-679f
 - Researchgate[https://www.researchgate.net/profile/Zainab-Jan/research]
 
 ## Contact
-- ![image](https://github.com/user-attachments/assets/f5b9039d-a49a-4143-8f28-c06afc36061b) [zainab.bioinfo@gmail.com](mailto:your.email@example.com)
+- <img src="https://github.com/user-attachments/assets/f5b9039d-a49a-4143-8f28-c06afc36061b" width="50" height="50" />  [zainab.bioinfo@gmail.com](mailto:your.email@example.com)
 - LinkedIn: [https://www.linkedin.com/in/zainab-jan-5856841a9/](https://linkedin.com/in/yourname)
 - Youtube: [https://www.youtube.com/@BioinformaticsHub-i3c](https://www.youtube.com/@BioinformaticsHub-i3c)
 
