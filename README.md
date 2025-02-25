@@ -54,7 +54,8 @@ ADFR <img src="https://github.com/user-attachments/assets/eaba05f2-dc64-4c59-8fc
 **Computational Tools used for Molecular Dynamic Simulation:**
 
 - **Machine Learning Models**:
-  - VCF, FASTQ, BAM, BED, GTF, CSV, TS
+  - Support Vector Machine <img src="https://github.com/user-attachments/assets/c8fb87ac-7e97-4326-8fa9-95d55d1ebd21" width="50" height="50" />
+
 
 ## Publications
 - Google Scholar: [https://scholar.google.com/citations?user=TKftGccAAAAJ&hl=en]
