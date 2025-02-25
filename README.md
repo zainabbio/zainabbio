@@ -27,7 +27,7 @@ Feel free to check out my repositories and projects, which are focused on provid
 - **DNA Methylation Analysis**: Exploring epigenetic modifications and their role in gene regulation.
 - **Machine Learning & Deep Learning**: Developing models for peptides predictions and classification tasks.
 - **R** & **Python** Programming for Data Analysis and Statistical Modeling.
-- **Bioinformatics Tools**: Familiar with tools like PLINK, GCTA, Bioconductor, and more.
+- **Bioinformatics Tools**: Familiar with tools like PLINK, GCTA, Regenie, MOE, AutoDock and more.
 
 ## Tools & Technologies
 
