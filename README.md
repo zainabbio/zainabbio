@@ -60,6 +60,6 @@ Random Forest <img src="https://github.com/user-attachments/assets/40c0420c-679f
 ## Contact
 <img src="https://github.com/user-attachments/assets/f5b9039d-a49a-4143-8f28-c06afc36061b" width="50" height="50" />  [zainab.bioinfo@gmail.com](mailto:your.email@example.com)
 <img src="https://github.com/user-attachments/assets/6738f073-164c-4c0e-a1b4-fe6a7db3fb6f" width="50" height="50" />  [https://www.linkedin.com/in/zainab-jan-5856841a9/]
-<img src="https://github.com/user-attachments/assets/6738f073-164c-4c0e-a1b4-fe6a7db3fb6f" width="50" height="50" /> [https://www.youtube.com/@BioinformaticsHub-i3c]
+<img src="https://github.com/user-attachments/assets/3471a660-ceb6-4787-b815-20c1b7acb660" width="50" height="50" /> [https://www.youtube.com/@BioinformaticsHub-i3c]
 Feel free to reach out if you'd like to collaborate, discuss bioinformatics, or have any questions about my projects!
 
