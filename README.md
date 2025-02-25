@@ -1,6 +1,11 @@
 # Zainab Jan
 
-Welcome to my GitHub! I am a bioinformatician with expertise in **genome-wide association analysis**, **Mendelian randomization**, **pharmacogenomics**, **RNA-seq**, **ChIP-seq**, **DNA methylation**, and other computational techniques. This repository contains various projects and tools I've worked on, mainly using **R**, **Python**, and specialized bioinformatics software.
+Welcome to my GitHub! I am a bioinformatician with expertise in **Genome-wide association analysis**, **Mendelian randomization**, **pharmacogenomics**, **RNA-seq**, **ChIP-seq**, **DNA methylation**, and other computational techniques. This repository contains various projects and tools I've worked on, mainly using **R**, **Python**, and specialized bioinformatics software.
+
+<div align="center">
+  Welcome to my GitHub! I am a bioinformatician with expertise in **Genome-wide association analysis**, **Mendelian randomization**, **pharmacogenomics**, **RNA-seq**, **ChIP-seq**, **DNA methylation**, and other computational techniques. This repository contains various projects and tools I've worked on, mainly using **R**, **Python**, and specialized bioinformatics software.
+</div>
+
 
 ## Table of Contents
 - [About Me](#about-me)
