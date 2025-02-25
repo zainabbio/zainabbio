@@ -48,11 +48,6 @@ Python <img src="https://github.com/user-attachments/assets/c6746345-b948-4b1c-8
 
 | **GROMACS** <img src="https://github.com/user-attachments/assets/6c389922-566b-4d5a-a9a4-11202b32e8f8" width="50" height="50" /> | **NAMD** <img src="https://github.com/user-attachments/assets/021db90a-a040-4972-9b71-07b30dd15c2c" width="50" height="50" /> | **Amber** <img src="https://github.com/user-attachments/assets/7b9cf2ed-0de8-434b-8d74-e4304c9b384b" width="50" height="50" /> | **Desmond** <img src="https://github.com/user-attachments/assets/ab830126-a4a6-4942-b63f-ec14ed351dc2" width="50" height="50" /> |
 
-**Machine Learning Models**:
-
-Support Vector Machine <img src="https://github.com/user-attachments/assets/c8fb87ac-7e97-4326-8fa9-95d55d1ebd21" width="50" height="50" />
-Random Forest <img src="https://github.com/user-attachments/assets/40c0420c-679f-4fe0-b2c8-5d002e1a5449" width="50" height="50" />
-
 ## Publications
 
 <img src="https://github.com/user-attachments/assets/348dfb01-1444-464e-8080-73a57e6df8db" width="50" height="50" />  [https://scholar.google.com/citations?user=TKftGccAAAAJ&hl=en]
