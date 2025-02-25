@@ -4,10 +4,6 @@ Welcome to my GitHub! I am a bioinformatician with expertise in **Genome-wide as
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainabbio&layout=compact&langs_count=6&theme=dark)
 
-## Contribution Graph
-
-![Zainab Bio Contribution Graph](https://github-readme-stats.vercel.app/api?username=zainabbio&count_private=true&show_icons=true&hide_title=true&theme=dark&hide=prs,issues)
-
 ## Table of Contents
 - [About Me](#about-me)
 - [Skills and Expertise](#skills-and-expertise)
