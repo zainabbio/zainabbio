@@ -54,8 +54,10 @@ Support Vector Machine <img src="https://github.com/user-attachments/assets/c8fb
 Random Forest <img src="https://github.com/user-attachments/assets/40c0420c-679f-4fe0-b2c8-5d002e1a5449" width="50" height="50" />
 
 ## Publications
-- Google Scholar: [https://scholar.google.com/citations?user=TKftGccAAAAJ&hl=en]
-- Researchgate[https://www.researchgate.net/profile/Zainab-Jan/research]
+
+<img src="https://github.com/user-attachments/assets/348dfb01-1444-464e-8080-73a57e6df8db" width="50" height="50" />  [https://scholar.google.com/citations?user=TKftGccAAAAJ&hl=en]
+
+<img src="https://github.com/user-attachments/assets/2f1e5635-a60c-4b59-95ac-36d334e816b6" width="50" height="50" /> [https://www.researchgate.net/profile/Zainab-Jan/research]
 
 ## Contact
 <img src="https://github.com/user-attachments/assets/f5b9039d-a49a-4143-8f28-c06afc36061b" width="50" height="50" />  [zainab.bioinfo@gmail.com](mailto:your.email@example.com)
