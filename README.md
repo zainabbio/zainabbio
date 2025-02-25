@@ -14,9 +14,6 @@ I have a background in bioinformatics and computational biology, with experience
 
 Feel free to check out my repositories and projects, which are focused on providing insights into the human genome, developing computational tools, and applying advanced machine learning models to biological data.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&langs_count=6&theme=dark)
-
-
 ## Skills and Expertise
 
 - **Genome-Wide Association Analysis (GWAS)**
