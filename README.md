@@ -51,6 +51,10 @@ HawkDock <img src="https://github.com/user-attachments/assets/fc106f73-55a9-49c7
 ZDock <img src="https://github.com/user-attachments/assets/c92452e3-8b0e-40b0-b53b-6ba08e10ffee" width="50" height="50" />
 ADFR <img src="https://github.com/user-attachments/assets/eaba05f2-dc64-4c59-8fc5-72cde2dfaf2e" width="50" height="50" />
 
+## Molecular Docking Tools
+
+| **AutoDock** <img src="https://github.com/user-attachments/assets/337c37a0-c745-4680-807a-5e83a8418dd8" width="50" height="50" /> | **HADDOCK** <img src="https://github.com/user-attachments/assets/501f076b-1deb-4890-b885-abe8747cdac2" width="50" height="50" /> | **MOE** <img src="https://github.com/user-attachments/assets/79e8dc15-fcd0-4f32-9eb2-6552cd68888f" width="50" height="50" /> | **HawkDock** <img src="https://github.com/user-attachments/assets/fc106f73-55a9-49c7-b5b8-1c8d37983a7a" width="50" height="50" /> | **ZDock** <img src="https://github.com/user-attachments/assets/c92452e3-8b0e-40b0-b53b-6ba08e10ffee" width="50" height="50" /> | **ADFR** <img src="https://github.com/user-attachments/assets/eaba05f2-dc64-4c59-8fc5-72cde2dfaf2e" width="50" height="50" /> |
+
 **Computational Tools used for Molecular Dynamic Simulation:**
 
 | **GROMACS** <img src="https://github.com/user-attachments/assets/6c389922-566b-4d5a-a9a4-11202b32e8f8" width="50" height="50" /> | **NAMD** <img src="https://github.com/user-attachments/assets/021db90a-a040-4972-9b71-07b30dd15c2c" width="50" height="50" /> | **Amber** <img src="https://github.com/user-attachments/assets/7b9cf2ed-0de8-434b-8d74-e4304c9b384b" width="50" height="50" /> | **Desmond** <img src="https://github.com/user-attachments/assets/ab830126-a4a6-4942-b63f-ec14ed351dc2" width="50" height="50" /> |
